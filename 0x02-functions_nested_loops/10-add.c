@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *add - a function that adds two integers and returns the result.
  *starting from 00:00 to 23:59.
@@ -11,4 +12,5 @@
 int add(int a, int b)
 {
 	return (a + b);
-}}
+}
+
