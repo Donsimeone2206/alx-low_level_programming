@@ -3,7 +3,7 @@
 
 /**
  * str_concat - concatenates two strings.
- * @s11: first string.
+ * @s1: first string.
  * @s2: second string.
  *
  * Return: pointerof an array of chars
